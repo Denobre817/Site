@@ -8,7 +8,6 @@
 <body>
     
 <body style="background-color:rgb(222, 213, 230);"></body>
-</html>
 
 <h1> Modelo 2</h1>
 
