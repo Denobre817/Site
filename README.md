@@ -41,6 +41,45 @@
 
       </section>
 
+      </section>
+
+
+      <section id="Habilidades">
+        
+      <h2> Habilidades e Tecnologias </h2>
+      
+      <table>
+
+        <head>
+          <tr>
+            <tr>Teconologia</tr>
+            <tr> Nivel</tr>
+            <tr> Descição</tr>
+          </tr>
+        </head> 
+
+        <body>
+          <tr>
+            <td> HTML </td>
+            <td> Iniciante </td>
+            <td> Capaz de construir estruturas de Páginas web  semânticas e responsivas. </td>
+          </tr>
+
+           <tr>
+            <td> CSS </td>
+            <td> Intermediário </td>
+            <td> Experinêcia com flexbox, grid e animação CSS </td>
+          </tr>
+
+          <tr>
+            <td> JavaScript </td>
+            <td> Básico </td>
+            <td> Desenvolvimento de script do lado do cliente pra interações. </td>
+          </tr>
+
+
+        </body>
+
 
   <footer>
     <p> Diretos reservados </p>
