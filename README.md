@@ -8,7 +8,6 @@
 <body>
     
 <body style="background-color:rgb(222, 213, 230);"></body>
-
 <h1> Modelo 2</h1>
 
 <nav> <!--seção de navegação site.-->
